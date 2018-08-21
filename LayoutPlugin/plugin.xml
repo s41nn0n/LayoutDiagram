@@ -16,10 +16,10 @@
 					id="com.vp.plugin.sample.layout.actionset1.LayoutAction"
 					actionType="generalAction"
       		name="Layout Diagram"
-		      description="Layout Active Diagram"
+		      description="Layout All Diagrams"
 					style="normal"
           icon="icon/icon.png"
-          tooltip="Layout Active Diagram"
+          tooltip="Layout All Diagrams"
 					toolbarPath="com.vp.plugin.sample.layout.actionset1.toolbar1/#">
 				<actionController class="com.vp.plugin.sample.layout.actions.LayoutActionControl"/>
 			</action>
